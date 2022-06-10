@@ -18,4 +18,5 @@ public class Cat {
         return predator.eatMeat();
     }
 
+
 }
